@@ -71,14 +71,14 @@ After the scan, an interactive menu lists every available cleanup action with:
 No installation required. Just download and make it executable:
 
 ```bash
-curl -O https://raw.githubusercontent.com/YOUR_USERNAME/mac-cleaner/main/mac_clean.sh
+curl -O https://raw.githubusercontent.com/0xdeafc0de/mac-cleaner/main/mac_clean.sh
 chmod +x mac_clean.sh
 ```
 
 Or clone the repo:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/mac-cleaner.git
+git clone https://github.com/0xdeafc0de/mac-cleaner.git
 cd mac-cleaner
 chmod +x mac_clean.sh
 ```
